@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: e1cd847ae99d3ed488827bb4dd841c0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6364291529866999875
+    second: npc_batterfly__x1_chew_png_1354831854_0
+  - first:
+      213: 4532669654147260690
+    second: npc_batterfly__x1_chew_png_1354831854_1
+  - first:
+      213: 6686021913817411157
+    second: npc_batterfly__x1_chew_png_1354831854_2
+  - first:
+      213: 3413559347722624724
+    second: npc_batterfly__x1_chew_png_1354831854_3
+  - first:
+      213: 8252056875066661462
+    second: npc_batterfly__x1_chew_png_1354831854_4
+  - first:
+      213: -9178063407947436030
+    second: npc_batterfly__x1_chew_png_1354831854_5
+  - first:
+      213: 7350362726154624177
+    second: npc_batterfly__x1_chew_png_1354831854_6
+  - first:
+      213: -4695523809752991291
+    second: npc_batterfly__x1_chew_png_1354831854_7
+  - first:
+      213: -8507099825644374232
+    second: npc_batterfly__x1_chew_png_1354831854_8
+  - first:
+      213: -4635054947962604258
+    second: npc_batterfly__x1_chew_png_1354831854_9
+  - first:
+      213: 6396032736637474408
+    second: npc_batterfly__x1_chew_png_1354831854_10
+  - first:
+      213: -7307149800696241307
+    second: npc_batterfly__x1_chew_png_1354831854_11
+  - first:
+      213: 3109575132735843097
+    second: npc_batterfly__x1_chew_png_1354831854_12
+  - first:
+      213: 8064927392835440478
+    second: npc_batterfly__x1_chew_png_1354831854_13
+  - first:
+      213: -5601277111706554284
+    second: npc_batterfly__x1_chew_png_1354831854_14
+  - first:
+      213: -8077614022313203946
+    second: npc_batterfly__x1_chew_png_1354831854_15
+  - first:
+      213: -5596871739934298400
+    second: npc_batterfly__x1_chew_png_1354831854_16
+  - first:
+      213: -5897240153351584512
+    second: npc_batterfly__x1_chew_png_1354831854_17
+  - first:
+      213: -8378646948451007460
+    second: npc_batterfly__x1_chew_png_1354831854_18
+  - first:
+      213: -5607800278418819386
+    second: npc_batterfly__x1_chew_png_1354831854_19
+  - first:
+      213: 723574511447100152
+    second: npc_batterfly__x1_chew_png_1354831854_20
+  - first:
+      213: 2920369206801906289
+    second: npc_batterfly__x1_chew_png_1354831854_21
+  - first:
+      213: 1540156542925857361
+    second: npc_batterfly__x1_chew_png_1354831854_22
+  - first:
+      213: 8837372761445593225
+    second: npc_batterfly__x1_chew_png_1354831854_23
+  - first:
+      213: -5837459667866890351
+    second: npc_batterfly__x1_chew_png_1354831854_24
+  - first:
+      213: -2653922437281579100
+    second: npc_batterfly__x1_chew_png_1354831854_25
+  - first:
+      213: -205706071893674265
+    second: npc_batterfly__x1_chew_png_1354831854_26
+  - first:
+      213: 6159232052301634465
+    second: npc_batterfly__x1_chew_png_1354831854_27
+  - first:
+      213: 6300854395188512454
+    second: npc_batterfly__x1_chew_png_1354831854_28
+  - first:
+      213: 7370057913234906986
+    second: npc_batterfly__x1_chew_png_1354831854_29
+  - first:
+      213: 1514197027166057782
+    second: npc_batterfly__x1_chew_png_1354831854_30
+  - first:
+      213: 3915822087865566105
+    second: npc_batterfly__x1_chew_png_1354831854_31
+  - first:
+      213: -9141848331955557162
+    second: npc_batterfly__x1_chew_png_1354831854_32
+  - first:
+      213: -8802967828434194538
+    second: npc_batterfly__x1_chew_png_1354831854_33
+  - first:
+      213: 7276041990314930704
+    second: npc_batterfly__x1_chew_png_1354831854_34
+  - first:
+      213: 2864990688391744242
+    second: npc_batterfly__x1_chew_png_1354831854_35
+  - first:
+      213: -4303085391194610525
+    second: npc_batterfly__x1_chew_png_1354831854_36
+  - first:
+      213: 1089091242428351995
+    second: npc_batterfly__x1_chew_png_1354831854_37
+  - first:
+      213: 2557438555123276528
+    second: npc_batterfly__x1_chew_png_1354831854_38
+  - first:
+      213: 2668725052787841074
+    second: npc_batterfly__x1_chew_png_1354831854_39
+  - first:
+      213: 9032953510848670385
+    second: npc_batterfly__x1_chew_png_1354831854_40
+  - first:
+      213: -2977390709350607627
+    second: npc_batterfly__x1_chew_png_1354831854_41
+  - first:
+      213: 7753322080867438229
+    second: npc_batterfly__x1_chew_png_1354831854_42
+  - first:
+      213: 7310002610211713698
+    second: npc_batterfly__x1_chew_png_1354831854_43
+  - first:
+      213: 8180592738867864526
+    second: npc_batterfly__x1_chew_png_1354831854_44
+  - first:
+      213: 8501959294513524298
+    second: npc_batterfly__x1_chew_png_1354831854_45
+  - first:
+      213: 1450042635976663953
+    second: npc_batterfly__x1_chew_png_1354831854_46
+  - first:
+      213: -5521839132002276501
+    second: npc_batterfly__x1_chew_png_1354831854_47
+  - first:
+      213: 866756859417116232
+    second: npc_batterfly__x1_chew_png_1354831854_48
+  - first:
+      213: -8351433254876175863
+    second: npc_batterfly__x1_chew_png_1354831854_49
+  - first:
+      213: 3330939156751765458
+    second: npc_batterfly__x1_chew_png_1354831854_50
+  - first:
+      213: -21424196513839492
+    second: npc_batterfly__x1_chew_png_1354831854_51
+  - first:
+      213: -7959112371947501484
+    second: npc_batterfly__x1_chew_png_1354831854_52
+  - first:
+      213: -4786901653307749808
+    second: npc_batterfly__x1_chew_png_1354831854_53
+  - first:
+      213: 4762856498197220968
+    second: npc_batterfly__x1_chew_png_1354831854_54
+  - first:
+      213: -2197626305695387817
+    second: npc_batterfly__x1_chew_png_1354831854_55
+  - first:
+      213: -4338517113858941350
+    second: npc_batterfly__x1_chew_png_1354831854_56
+  - first:
+      213: 917641144899519596
+    second: npc_batterfly__x1_chew_png_1354831854_57
+  - first:
+      213: 1898764761421976477
+    second: npc_batterfly__x1_chew_png_1354831854_58
+  - first:
+      213: 3482399819310620170
+    second: npc_batterfly__x1_chew_png_1354831854_59
+  - first:
+      213: -3122699681535631351
+    second: npc_batterfly__x1_chew_png_1354831854_60
+  - first:
+      213: 6865669379326580604
+    second: npc_batterfly__x1_chew_png_1354831854_61
+  - first:
+      213: 7931435757786819157
+    second: npc_batterfly__x1_chew_png_1354831854_62
+  - first:
+      213: 2609439585395861796
+    second: npc_batterfly__x1_chew_png_1354831854_63
+  - first:
+      213: -8726992154973104933
+    second: npc_batterfly__x1_chew_png_1354831854_64
+  - first:
+      213: -9011634638770536214
+    second: npc_batterfly__x1_chew_png_1354831854_65
+  - first:
+      213: -3311133723976745890
+    second: npc_batterfly__x1_chew_png_1354831854_66
+  - first:
+      213: 2854976824155746256
+    second: npc_batterfly__x1_chew_png_1354831854_67
+  - first:
+      213: -2753834524311304763
+    second: npc_batterfly__x1_chew_png_1354831854_68
+  - first:
+      213: 4956345086093932260
+    second: npc_batterfly__x1_chew_png_1354831854_69
+  - first:
+      213: -3218603849720100637
+    second: npc_batterfly__x1_chew_png_1354831854_70
+  - first:
+      213: -5476526915859844487
+    second: npc_batterfly__x1_chew_png_1354831854_71
+  - first:
+      213: -6152935567619909779
+    second: npc_batterfly__x1_chew_png_1354831854_72
+  - first:
+      213: -4690319726530862769
+    second: npc_batterfly__x1_chew_png_1354831854_73
+  - first:
+      213: -6586353297290949703
+    second: npc_batterfly__x1_chew_png_1354831854_74
+  - first:
+      213: 1078489966576732611
+    second: npc_batterfly__x1_chew_png_1354831854_75
+  - first:
+      213: -6250437017165329546
+    second: npc_batterfly__x1_chew_png_1354831854_76
+  - first:
+      213: 9162672183295337188
+    second: npc_batterfly__x1_chew_png_1354831854_77
+  - first:
+      213: -1230065728889441725
+    second: npc_batterfly__x1_chew_png_1354831854_78
+  - first:
+      213: -1524267489359485595
+    second: npc_batterfly__x1_chew_png_1354831854_79
+  - first:
+      213: 4519547329597686570
+    second: npc_batterfly__x1_chew_png_1354831854_80
+  - first:
+      213: -6282996357461787767
+    second: npc_batterfly__x1_chew_png_1354831854_81
+  - first:
+      213: -2073722075989099445
+    second: npc_batterfly__x1_chew_png_1354831854_82
+  - first:
+      213: -7370154691214941873
+    second: npc_batterfly__x1_chew_png_1354831854_83
+  - first:
+      213: 1713315136845941611
+    second: npc_batterfly__x1_chew_png_1354831854_84
+  - first:
+      213: 8156171097920021071
+    second: npc_batterfly__x1_chew_png_1354831854_85
+  - first:
+      213: -4179191383692013025
+    second: npc_batterfly__x1_chew_png_1354831854_86
+  - first:
+      213: 4485822815628386546
+    second: npc_batterfly__x1_chew_png_1354831854_87
+  - first:
+      213: -3585465447274616982
+    second: npc_batterfly__x1_chew_png_1354831854_88
+  - first:
+      213: 9071807014774265313
+    second: npc_batterfly__x1_chew_png_1354831854_89
+  - first:
+      213: 7671505412392708298
+    second: npc_batterfly__x1_chew_png_1354831854_90
+  - first:
+      213: 416516831244445906
+    second: npc_batterfly__x1_chew_png_1354831854_91
+  - first:
+      213: -8447496091312201203
+    second: npc_batterfly__x1_chew_png_1354831854_92
+  - first:
+      213: 3562051406592138002
+    second: npc_batterfly__x1_chew_png_1354831854_93
+  - first:
+      213: -6084411468875444570
+    second: npc_batterfly__x1_chew_png_1354831854_94
+  - first:
+      213: 5863152110749655317
+    second: npc_batterfly__x1_chew_png_1354831854_95
+  - first:
+      213: 528044267147022869
+    second: npc_batterfly__x1_chew_png_1354831854_96
+  - first:
+      213: -3680656014755140323
+    second: npc_batterfly__x1_chew_png_1354831854_97
+  - first:
+      213: 5319260968139939820
+    second: npc_batterfly__x1_chew_png_1354831854_98
+  - first:
+      213: 3566612832572163002
+    second: npc_batterfly__x1_chew_png_1354831854_99
+  - first:
+      213: -4718383658592101130
+    second: npc_batterfly__x1_chew_png_1354831854_100
+  - first:
+      213: -1075945966874415705
+    second: npc_batterfly__x1_chew_png_1354831854_101
+  - first:
+      213: 8995008011308058689
+    second: npc_batterfly__x1_chew_png_1354831854_102
+  - first:
+      213: 7063209771871714032
+    second: npc_batterfly__x1_chew_png_1354831854_103
+  - first:
+      213: 3959189222494293933
+    second: npc_batterfly__x1_chew_png_1354831854_104
+  - first:
+      213: 698067004153336880
+    second: npc_batterfly__x1_chew_png_1354831854_105
+  - first:
+      213: 8782017176804935600
+    second: npc_batterfly__x1_chew_png_1354831854_106
+  - first:
+      213: -2946833897545145389
+    second: npc_batterfly__x1_chew_png_1354831854_107
+  - first:
+      213: 2205042331771719539
+    second: npc_batterfly__x1_chew_png_1354831854_108
+  - first:
+      213: 1955275263076767158
+    second: npc_batterfly__x1_chew_png_1354831854_109
+  - first:
+      213: 4820272288568905903
+    second: npc_batterfly__x1_chew_png_1354831854_110
+  - first:
+      213: 514654130444273776
+    second: npc_batterfly__x1_chew_png_1354831854_111
+  - first:
+      213: 4922138773896370309
+    second: npc_batterfly__x1_chew_png_1354831854_112
+  - first:
+      213: 9042764415001260812
+    second: npc_batterfly__x1_chew_png_1354831854_113
+  - first:
+      213: -3130600863486182542
+    second: npc_batterfly__x1_chew_png_1354831854_114
+  - first:
+      213: 5903412781306939831
+    second: npc_batterfly__x1_chew_png_1354831854_115
+  - first:
+      213: -6000585356457836371
+    second: npc_batterfly__x1_chew_png_1354831854_116
+  - first:
+      213: -3908568707779846773
+    second: npc_batterfly__x1_chew_png_1354831854_117
+  - first:
+      213: 5705103820674325641
+    second: npc_batterfly__x1_chew_png_1354831854_118
+  - first:
+      213: -666630027959104359
+    second: npc_batterfly__x1_chew_png_1354831854_119
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973cfd6e806e8e749aee2c9dd2792de4
+      internalID: -6364291529866999875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5825a779f1d994a8f1c2307a456c6a
+      internalID: 4532669654147260690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4379f1262799c478c4ec8d6aebcd4a
+      internalID: 6686021913817411157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40682c08196742e41b733514cf09ec43
+      internalID: 3413559347722624724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994482e57cc6b8944b743c4ebaa379e7
+      internalID: 8252056875066661462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9c8ae594a809a4eaa909d561d4a1ad
+      internalID: -9178063407947436030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e55a02ede8032341b73830d07eb9e74
+      internalID: 7350362726154624177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e31bec78230441a38b855a8fbb629
+      internalID: -4695523809752991291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166cfb3b393d6648aa45fe526766dda
+      internalID: -8507099825644374232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d290f71c11c98348881c4f45abd9bc4
+      internalID: -4635054947962604258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee484f4cb8721847b4dcb25d76e720c
+      internalID: 6396032736637474408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84feb8bf75f8e9c428b7bbadecce723b
+      internalID: -7307149800696241307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776623e38fd2fb44dbd1260f9b4fbf09
+      internalID: 3109575132735843097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8522a8a07b904d9407597dfbf73d6
+      internalID: 8064927392835440478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c56599026ba43e4b90ed9ef6884ca74
+      internalID: -5601277111706554284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848b103f75855c43a49239996d566c4
+      internalID: -8077614022313203946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b76db694338e40bb63d46521eef22
+      internalID: -5596871739934298400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_17
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23684196a8ef524bb79b2c8e93ea82b
+      internalID: -5897240153351584512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daac1cb733a99d46bdb1054637d8f74
+      internalID: -8378646948451007460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d9dbfff00f5b54dbc711c2228a1bd5
+      internalID: -5607800278418819386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9326d98e53b3f754eafab826025d235d
+      internalID: 723574511447100152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a81a352e4e27468333573d7bfa99e
+      internalID: 2920369206801906289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a487baffbef5cde41b0ba8e0e87afb6d
+      internalID: 1540156542925857361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a413454153a3a84ea669e67b45f559b
+      internalID: 8837372761445593225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae550bac1d3ebe947b05330655d5b7e3
+      internalID: -5837459667866890351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c0dd3d464517545bec8d160fd3ed56
+      internalID: -2653922437281579100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32833f7a2fbb4429095485de2e2923
+      internalID: -205706071893674265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3eb5a29ea0f4642be4db14188f3127
+      internalID: 6159232052301634465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37da9b74a8a712045b95ddc45e1c67b8
+      internalID: 6300854395188512454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395dab5017248ec4c9dd8c267e41ef8d
+      internalID: 7370057913234906986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25296d60fe2c62a4b87bf7d35a68d2f9
+      internalID: 1514197027166057782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0db7df487e9740a2ebffb8c969f68
+      internalID: 3915822087865566105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc8089339a81a459e75971ad191c09
+      internalID: -9141848331955557162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57879e5c089a8484ba6bffee97ddae72
+      internalID: -8802967828434194538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d0899cf598934ea4318fbf9317c4a
+      internalID: 7276041990314930704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b136190efb09946a943e54b9ec789e
+      internalID: 2864990688391744242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e44a80bb108bd4fb9cefe1029614b9
+      internalID: -4303085391194610525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa161a38f3133d429782da3794b8041
+      internalID: 1089091242428351995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e4890f60e3c074fb7dd9902909e06b
+      internalID: 2557438555123276528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc1d4d170f737479626bf0ca022fd3
+      internalID: 2668725052787841074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fef0023e47ff3418fdcd18f9c2ecab
+      internalID: 9032953510848670385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4c1601ceb80b4cbdce2a0df2156b7
+      internalID: -2977390709350607627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb721be370597439ca75cc1de1322c
+      internalID: 7753322080867438229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c182cc11b7f54a975b9ea3b43fa3a
+      internalID: 7310002610211713698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb920b24f7aa8bf4dbe866a024ed8620
+      internalID: 8180592738867864526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3acbf804d2ea94a885cea8f932eec3
+      internalID: 8501959294513524298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fad62fb0978614b8415876635ddc42
+      internalID: 1450042635976663953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7908b358fbf054ba5300bee3dba436
+      internalID: -5521839132002276501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eafa4f713eed448b25830cb05c6788
+      internalID: 866756859417116232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a67a6630de834a84bb2256e343ec2
+      internalID: -8351433254876175863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22029f5333e55274ca8ed8e46306881a
+      internalID: 3330939156751765458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539d608302939146acdf442261a22c3
+      internalID: -21424196513839492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13772aba9a9060d42890ec517c4d0199
+      internalID: -7959112371947501484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44b0b8f1761f90468078650af903231
+      internalID: -4786901653307749808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c814fa2cd534db4a8bb24e353a851e1
+      internalID: 4762856498197220968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e37d20a3213a42825cf634ebaf3d0
+      internalID: -2197626305695387817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd4691aa515d5b4c9b120c55f2e7aae
+      internalID: -4338517113858941350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003fecc26b144d40b377e6bef06225c
+      internalID: 917641144899519596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d391db0f425b64aa822f15e7f9e302
+      internalID: 1898764761421976477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b2b13d9cbddc4a93df7536cae08f3
+      internalID: 3482399819310620170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_60
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ce6a3f8a6e5d41b2032d989d6042f
+      internalID: -3122699681535631351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669d860f03bd044ab297931aa021918
+      internalID: 6865669379326580604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3be8d08ea1284cbb69ab9e301d8ef
+      internalID: 7931435757786819157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd5b95d068cc74dbb5a8c8354b240c
+      internalID: 2609439585395861796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed752a4607e12264d8e160fcb6aa86ce
+      internalID: -8726992154973104933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990bcb0e776282e4e9748712d0b7e3aa
+      internalID: -9011634638770536214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb548500abdc3745be2395802f86be2
+      internalID: -3311133723976745890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cba9826527649744984d9e31d8a4889
+      internalID: 2854976824155746256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c68ca1da0340c47abddbd305319c6b
+      internalID: -2753834524311304763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_69
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f293a6f761234698d569d66a36dd7
+      internalID: 4956345086093932260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_70
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569705de0263e234facb675d94aa0a86
+      internalID: -3218603849720100637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_71
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725bb7c9a591f74409e52834929db081
+      internalID: -5476526915859844487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987db54a1c30b45498a69ff25f2c4190
+      internalID: -6152935567619909779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fb02ce2936ac419a7e05664ad5e31
+      internalID: -4690319726530862769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c2730efbbc3647959bd3697bce72c
+      internalID: -6586353297290949703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e9127fce89534195e5fe974eb46b7
+      internalID: 1078489966576732611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de51e5ede349447a69d13ffaedc607
+      internalID: -6250437017165329546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_77
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129b79ba77096843827b520ca05f756
+      internalID: 9162672183295337188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_78
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dfba37d426ad24c986036e8a5ed212
+      internalID: -1230065728889441725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_79
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188c1ffdf3fea74ea42a6a4ccb28145
+      internalID: -1524267489359485595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_80
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c85810c94ef9a143bd04b98209338be
+      internalID: 4519547329597686570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74edaa65bbdfce64e88158830c5d9cd8
+      internalID: -6282996357461787767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e7c5487604bd34681477cf301b619c
+      internalID: -2073722075989099445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6793ccc1b5bac41a41db77098f833c
+      internalID: -7370154691214941873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_84
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a33aa5fb3b4dd41bdb3f2b5c29481b
+      internalID: 1713315136845941611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_85
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024a30c452f1324fb8247ff9277db38
+      internalID: 8156171097920021071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aaa03a0c3fe3b449461f0bb2b448cb
+      internalID: -4179191383692013025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_87
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9058b81a85ba4c90fe51c59ad0b79
+      internalID: 4485822815628386546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_88
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19eb8fe9a0bdf4e9296e1fa0b64096
+      internalID: -3585465447274616982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_89
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f5c2d3c1ae884f983e15bac66597e
+      internalID: 9071807014774265313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae738aaeeea67a4188402ae907ea5ea
+      internalID: 7671505412392708298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648a14b5116ea042b03617a495e5b29
+      internalID: 416516831244445906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a519ac0084a742a8db34a2d850f24
+      internalID: -8447496091312201203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b228e478aab347a673ceaf922276b
+      internalID: 3562051406592138002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_94
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd2537b9b732a479aff39267a5e71e
+      internalID: -6084411468875444570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_95
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12f21b077cdfe44a76967cbad2a564
+      internalID: 5863152110749655317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_96
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbfe65742fc0b5448ae857912c9e250
+      internalID: 528044267147022869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_97
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013c82619ec3e174eaf626c99abb6d39
+      internalID: -3680656014755140323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_98
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3361a5c1f260af4ca1daddf0e39d79b
+      internalID: 5319260968139939820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8906372d2fb6c1842b39ee07723c014c
+      internalID: 3566612832572163002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782f256d1ab3094e955fd808169f6a9
+      internalID: -4718383658592101130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_101
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b06c6160db2f45af6af452631438c
+      internalID: -1075945966874415705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373634f66e72404d8cb4b33ca603ff0
+      internalID: 8995008011308058689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_103
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801301c74fc5e649b1fc7b7b6d19a84
+      internalID: 7063209771871714032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_104
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721f6a36b5de9f48b303a6182d31144
+      internalID: 3959189222494293933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_105
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883de71bae53c3e4a91403c697a881ad
+      internalID: 698067004153336880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_106
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c948c9effe382b429c31df7a492a171
+      internalID: 8782017176804935600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_107
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f1dd355d23f7941a78f29514f4c8e8
+      internalID: -2946833897545145389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a1668d807a8f419dd0e49837bb101
+      internalID: 2205042331771719539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_109
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b74289f9d889af4fbf712f230a3a781
+      internalID: 1955275263076767158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003b09a3a66fca4586e9c9444d4da34
+      internalID: 4820272288568905903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a69e5f3e70818479059304d830329b
+      internalID: 514654130444273776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_112
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c76020ed7c46f6458fc7a66f8239941
+      internalID: 4922138773896370309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_113
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9167a3d744454db4d07486341034a
+      internalID: 9042764415001260812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_114
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc081cf2df0f164294de231a286b257
+      internalID: -3130600863486182542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_115
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d917c272f34c5d145a4934a7f05d98eb
+      internalID: 5903412781306939831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_116
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2812ebdadab74eabdd042cc87c4c8
+      internalID: -6000585356457836371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf628d8ffda6e49a46ad6d3e2d8dee
+      internalID: -3908568707779846773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed60de7ae7faf84faca8218485690f8
+      internalID: 5705103820674325641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_batterfly__x1_chew_png_1354831854_119
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73065f16472f03444bae8c989dfb129e
+      internalID: -666630027959104359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

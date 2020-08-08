@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 6a962e32d3510904f906eccbcf9c0b11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 805709500056481067
+    second: teleporter_visible__x1_appear_png_1354836398_0
+  - first:
+      213: 1684659963895349595
+    second: teleporter_visible__x1_appear_png_1354836398_1
+  - first:
+      213: -7718268131773223691
+    second: teleporter_visible__x1_appear_png_1354836398_2
+  - first:
+      213: -7593346761651239009
+    second: teleporter_visible__x1_appear_png_1354836398_3
+  - first:
+      213: 2814249834620010507
+    second: teleporter_visible__x1_appear_png_1354836398_4
+  - first:
+      213: 8699485448715179112
+    second: teleporter_visible__x1_appear_png_1354836398_5
+  - first:
+      213: -2489425565451295668
+    second: teleporter_visible__x1_appear_png_1354836398_6
+  - first:
+      213: 1379949702630480370
+    second: teleporter_visible__x1_appear_png_1354836398_7
+  - first:
+      213: 5414106457314475020
+    second: teleporter_visible__x1_appear_png_1354836398_8
+  - first:
+      213: 2186559686070567230
+    second: teleporter_visible__x1_appear_png_1354836398_9
+  - first:
+      213: -8119557643223139805
+    second: teleporter_visible__x1_appear_png_1354836398_10
+  - first:
+      213: -5148251024370388447
+    second: teleporter_visible__x1_appear_png_1354836398_11
+  - first:
+      213: -587475973211230814
+    second: teleporter_visible__x1_appear_png_1354836398_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54112db6ca7b9d84ebf09f0a496e2440
+      internalID: 805709500056481067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 606
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465151049d6e244eaac3f12a1988090
+      internalID: 1684659963895349595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 606
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6822d564a9385243a85c77dff76fff6
+      internalID: -7718268131773223691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_3
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 606
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775552a2532af3438613e14fbff08ed
+      internalID: -7593346761651239009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 606
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467dbb937e1eb94badf6b064532dbba
+      internalID: 2814249834620010507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf0cf74439c244c9245d8c87ca2bac
+      internalID: 8699485448715179112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 303
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3265a948d3832104a8602cac67005774
+      internalID: -2489425565451295668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 303
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e021112ae47124ea72371c66c9b01e
+      internalID: 1379949702630480370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 303
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1dfb30cce43854392f6b8c8168a1cb
+      internalID: 5414106457314475020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 303
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e92531ca29b54d8402df3ef2f3e4c
+      internalID: 2186559686070567230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c75688c2e5e44598246dd6cc3d743
+      internalID: -8119557643223139805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e8f06b137bc64ea26d35e3769520c
+      internalID: -5148251024370388447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter_visible__x1_appear_png_1354836398_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 143
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0d36d52a15124aaf7ecb1e34640bc
+      internalID: -587475973211230814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

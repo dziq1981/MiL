@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: f5091b27a656f437094000095b53c3e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cave-tileset_0
+  - first:
+      213: 21300002
+    second: cave-tileset_1
+  - first:
+      213: 21300004
+    second: cave-tileset_2
+  - first:
+      213: 21300006
+    second: cave-tileset_3
+  - first:
+      213: 21300008
+    second: cave-tileset_4
+  - first:
+      213: 21300010
+    second: cave-tileset_5
+  - first:
+      213: 21300012
+    second: cave-tileset_6
+  - first:
+      213: 21300014
+    second: cave-tileset_7
+  - first:
+      213: 21300016
+    second: cave-tileset_8
+  - first:
+      213: 21300018
+    second: cave-tileset_9
+  - first:
+      213: 21300020
+    second: cave-tileset_10
+  - first:
+      213: 21300022
+    second: cave-tileset_11
+  - first:
+      213: 21300024
+    second: cave-tileset_12
+  - first:
+      213: 21300026
+    second: cave-tileset_13
+  - first:
+      213: 21300028
+    second: cave-tileset_14
+  - first:
+      213: 21300030
+    second: cave-tileset_15
+  - first:
+      213: 21300032
+    second: cave-tileset_16
+  - first:
+      213: 21300034
+    second: cave-tileset_17
+  - first:
+      213: 21300036
+    second: cave-tileset_18
+  - first:
+      213: 21300038
+    second: cave-tileset_19
+  - first:
+      213: 21300040
+    second: cave-tileset_20
+  - first:
+      213: 21300042
+    second: cave-tileset_21
+  - first:
+      213: 21300044
+    second: cave-tileset_22
+  - first:
+      213: 21300046
+    second: cave-tileset_23
+  - first:
+      213: 21300048
+    second: cave-tileset_24
+  - first:
+      213: 21300050
+    second: cave-tileset_25
+  - first:
+      213: 21300052
+    second: cave-tileset_26
+  - first:
+      213: 21300054
+    second: cave-tileset_27
+  - first:
+      213: 21300056
+    second: cave-tileset_28
+  - first:
+      213: 21300058
+    second: cave-tileset_29
+  - first:
+      213: 21300060
+    second: cave-tileset_30
+  - first:
+      213: 21300062
+    second: cave-tileset_31
+  - first:
+      213: 21300064
+    second: cave-tileset_32
+  - first:
+      213: 21300066
+    second: cave-tileset_33
+  - first:
+      213: 21300068
+    second: cave-tileset_34
+  - first:
+      213: 21300070
+    second: cave-tileset_35
+  - first:
+      213: 21300072
+    second: cave-tileset_36
+  - first:
+      213: 21300074
+    second: cave-tileset_37
+  - first:
+      213: 21300076
+    second: cave-tileset_38
+  - first:
+      213: 21300078
+    second: cave-tileset_39
+  - first:
+      213: 21300080
+    second: cave-tileset_40
+  - first:
+      213: 21300082
+    second: cave-tileset_41
+  - first:
+      213: 21300084
+    second: cave-tileset_42
+  - first:
+      213: 21300086
+    second: cave-tileset_43
+  - first:
+      213: 21300088
+    second: cave-tileset_44
+  - first:
+      213: 21300090
+    second: cave-tileset_45
+  - first:
+      213: 21300092
+    second: cave-tileset_46
+  - first:
+      213: 21300094
+    second: cave-tileset_47
+  - first:
+      213: 21300096
+    second: cave-tileset_48
+  - first:
+      213: 21300098
+    second: cave-tileset_49
+  - first:
+      213: 21300100
+    second: cave-tileset_50
+  - first:
+      213: 21300102
+    second: cave-tileset_51
+  - first:
+      213: 21300104
+    second: cave-tileset_52
+  - first:
+      213: 21300106
+    second: cave-tileset_53
+  - first:
+      213: 21300108
+    second: cave-tileset_54
+  - first:
+      213: 21300110
+    second: cave-tileset_55
+  - first:
+      213: 21300112
+    second: cave-tileset_56
+  - first:
+      213: 21300114
+    second: cave-tileset_57
+  - first:
+      213: 21300116
+    second: cave-tileset_58
+  - first:
+      213: 21300118
+    second: cave-tileset_59
+  - first:
+      213: 21300120
+    second: cave-tileset_60
+  - first:
+      213: 21300122
+    second: cave-tileset_61
+  - first:
+      213: 21300124
+    second: cave-tileset_62
+  - first:
+      213: 21300126
+    second: cave-tileset_63
+  - first:
+      213: 21300128
+    second: cave-tileset_64
+  - first:
+      213: 21300130
+    second: cave-tileset_65
+  - first:
+      213: 21300132
+    second: cave-tileset_66
+  - first:
+      213: 21300134
+    second: cave-tileset_67
+  - first:
+      213: 21300136
+    second: cave-tileset_68
+  - first:
+      213: 21300138
+    second: cave-tileset_69
+  - first:
+      213: 21300140
+    second: cave-tileset_70
+  - first:
+      213: 21300142
+    second: cave-tileset_71
+  - first:
+      213: 21300144
+    second: cave-tileset_72
+  - first:
+      213: 21300146
+    second: cave-tileset_73
+  - first:
+      213: 21300148
+    second: cave-tileset_74
+  - first:
+      213: 21300150
+    second: cave-tileset_75
+  - first:
+      213: 21300152
+    second: cave-tileset_76
+  - first:
+      213: 21300154
+    second: cave-tileset_77
+  - first:
+      213: 21300156
+    second: cave-tileset_78
+  - first:
+      213: 21300158
+    second: cave-tileset_79
+  - first:
+      213: 21300160
+    second: cave-tileset_80
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7cc6a2cef0b8c4e9ca13bc6f95c32f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7aef3fd846ff14da00d2b23da00e45
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36dc8697fdee24da6223727c19866a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4e8855af7c2741a30ef0ec970b72f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a73b37f66e9b4cbf50fa5c85a703a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302cf518df56d249bc262a014a2f501
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551bd443bddceb43b1bcb44fcf0baa1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 128
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc975761e54f0e48beee117b8510ffb
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ce322de9aeb94ca1fef55a39b5953
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c49bd6dfd55748892b456f7798c56
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9366977dce9e1647b06e73e554acf5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
