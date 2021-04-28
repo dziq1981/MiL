@@ -16,10 +16,9 @@ public class Collect : MonoBehaviour {
 	}
 
     private void OnTriggerEnter2D(Collider2D collision)
-    {
-		
-		AudioSource.PlayClipAtPoint(pling, FindObjectOfType<Camera>().transform.position);
-		FindObjectOfType<hudManager>().score += 10;
+    {		
+	AudioSource.PlayClipAtPoint(pling, FindObjectOfType<Camera>().transform.position);
+	FindObjectOfType<hudManager>().score += 10;
         Destroy(gameObject);
     }
 
